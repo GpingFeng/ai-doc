@@ -1,0 +1,32 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[markdown]": {
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": {
+      "comments": "on",
+      "strings": "on",
+      "other": "on"
+    }
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.associations": {
+    "*.md": "markdown",
+    "*.mts": "typescript"
+  },
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/.vitepress/cache": true,
+    "**/.vitepress/dist": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/.vitepress/cache": true,
+    "**/.vitepress/dist": true
+  }
+}
