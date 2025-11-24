@@ -5,6 +5,7 @@ export default defineConfig({
   title: 'AI 知识库',
   description: '全面的人工智能知识库，涵盖机器学习、深度学习、自然语言处理等领域',
   lang: 'zh-CN',
+  base: '/ai-doc/', // GitHub Pages 部署路径
 
   // SEO 优化配置
   head: [
