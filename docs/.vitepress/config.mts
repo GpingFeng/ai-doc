@@ -68,6 +68,7 @@ export default defineConfig({
           items: [
             { text: 'AI 编程概述', link: '/ai-programming/overview' },
             { text: 'Claude Code Cheat Sheet', link: '/ai-programming/claude-cheat-sheet' },
+            { text: 'Cursor 使用技巧', link: '/ai-programming/cursor-tips' },
           ],
         },
       ],
