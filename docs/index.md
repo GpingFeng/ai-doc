@@ -26,8 +26,9 @@ features:
     details: 快速上手文档系统，学习 Markdown 增强语法和自定义组件
     link: /guide/quick-start
   - icon: 🤖
-    title: 机器学习
-    details: 深入学习监督学习、无监督学习、强化学习等经典算法（即将推出）
+    title: AI 编程
+    details: 使用 AI 工具提升开发效率，掌握 Claude、Copilot 等 AI 编程助手
+    link: /ai-programming/overview
   - icon: 🔥
     title: 深度学习
     details: 探索神经网络、CNN、RNN、Transformer 等前沿技术（即将推出）

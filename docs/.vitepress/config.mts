@@ -42,7 +42,7 @@ export default defineConfig({
       {
         text: '更多主题',
         items: [
-          { text: '机器学习', link: '/machine-learning/' },
+          { text: 'AI 编程', link: '/ai-programming/overview' },
           { text: '深度学习', link: '/deep-learning/' },
           { text: '应用实践', link: '/applications/' },
         ],
@@ -60,6 +60,15 @@ export default defineConfig({
         {
           text: 'AI 基础知识',
           items: [{ text: '什么是人工智能', link: '/basics/introduction' }],
+        },
+      ],
+      '/ai-programming/': [
+        {
+          text: 'AI 编程',
+          items: [
+            { text: 'AI 编程概述', link: '/ai-programming/overview' },
+            { text: 'Claude Code Cheat Sheet', link: '/ai-programming/claude-cheat-sheet' },
+          ],
         },
       ],
     },
