@@ -63,7 +63,7 @@ export default defineConfig({
       ],
     },
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/yourusername/ai-knowledge-base' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/GpingFeng/ai-doc' }],
 
     // 搜索配置
     search: {

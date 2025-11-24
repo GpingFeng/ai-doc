@@ -523,7 +523,7 @@ defineProps<Props>()
 
 感谢所有贡献者！
 
-你的名字也可以出现在这里：[贡献者列表](https://github.com/yourusername/ai-doc/graphs/contributors)
+你的名字也可以出现在这里：[贡献者列表](https://github.com/GpingFeng/ai-doc/graphs/contributors)
 
 ## 许可证
 

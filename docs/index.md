@@ -70,4 +70,4 @@ features:
 
 ## 贡献
 
-欢迎对本知识库进行贡献！如果你发现任何问题或有改进建议，请访问我们的 [GitHub 仓库](https://github.com/yourusername/ai-knowledge-base)。
+欢迎对本知识库进行贡献！如果你发现任何问题或有改进建议，请访问我们的 [GitHub 仓库](https://github.com/GpingFeng/ai-knowledge-base)。

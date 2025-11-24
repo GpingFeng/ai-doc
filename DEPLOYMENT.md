@@ -55,7 +55,7 @@ cd docs/.vitepress/dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:yourusername/ai-doc.git main:gh-pages
+git push -f git@github.com:GpingFeng/ai-doc.git main:gh-pages
 
 cd -
 ```
